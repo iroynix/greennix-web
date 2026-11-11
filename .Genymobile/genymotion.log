@@ -1,0 +1,71 @@
+2024-11-29T00:29:49+05:30 [Genymotion:2552] [debug] ==== STARTING GENYMOTION ====
+2024-11-29T00:29:49+05:30 [Genymotion:2552] [debug] Genymotion Version: "3.8.0" 20241022-464d1f0f96
+2024-11-29T00:29:49+05:30 [Genymotion:2552] [debug] Architecture: "desktop=x86_64 cpu=arm64 rosetta=1 osimages=arm64 osname=macOS osversion=15.1.0"
+2024-11-29T00:29:49+05:30 [Genymotion:2552] [debug] "Local socket created at path: /private/var/folders/dc/8ygdvkpn1ys4frn0tv0q4v2m0000gn/T/907f397a1f5a71abaaa526042f58a1b0"
+2024-11-29T00:29:49+05:30 [Genymotion:2552] [warning] Failed to open "/Users/bibhutibhusannayak/.Genymobile/Genymotion/settings.json" "No such file or directory"
+2024-11-29T00:29:49+05:30 [Genymotion:2552] [warning] Failed to open "/Users/bibhutibhusannayak/.Genymobile/Genymotion/settings.json" "No such file or directory"
+2024-11-29T00:29:49+05:30 [Genymotion:2552] [warning] Failed to open "/Users/bibhutibhusannayak/.Genymobile/Genymotion/settings.json" "No such file or directory"
+2024-11-29T00:29:49+05:30 [Genymotion:2552] [warning] Failed to open "/Users/bibhutibhusannayak/.Genymobile/Genymotion/settings.json" "No such file or directory"
+2024-11-29T00:29:49+05:30 [Genymotion:2552] [debug] No proxy set
+2024-11-29T00:29:50+05:30 [Genymotion:2552] [debug] Host date and time: "29 Nov 2024 00:29:50 +0530"
+2024-11-29T00:29:50+05:30 [Genymotion:2552] [warning] License validity reaches the minimum acceptable value.
+2024-11-29T00:29:50+05:30 [Genymotion:2552] [warning] Missing theme key: background4Color
+2024-11-29T00:29:50+05:30 [Genymotion:2552] [debug] Theme assetsUrl "qrc:/themes/default"
+2024-11-29T00:29:51+05:30 [Genymotion:2552] [qt.qpa.fonts.warning] Populating font family aliases took 487 ms. Replace uses of missing font family "Lato" with one that exists to avoid this cost. 
+2024-11-29T00:29:51+05:30 [Genymotion:2552] [debug] [LaunchpadApp] Started with ("/Applications/Genymotion.app/Contents/MacOS/genymotion")
+2024-11-29T00:29:51+05:30 [Genymotion:2552] [debug] GET "https://www.genymotion.com/rss/"
+2024-11-29T00:29:51+05:30 [Genymotion:2552] [debug] GET "https://cloud.genymotion.com/patterns/hardware-profiles?desktop_version=3.8.0"
+2024-11-29T00:29:51+05:30 [Genymotion:2552] [debug] GET "https://cloud.genymotion.com/patterns/os-images?desktop_version=3.8.0&arch=arm64"
+2024-11-29T00:29:51+05:30 [Genymotion:2552] [debug] GL_VENDOR: "Apple"
+2024-11-29T00:29:51+05:30 [Genymotion:2552] [debug] GL_RENDERER: "Apple M1"
+2024-11-29T00:29:51+05:30 [Genymotion:2552] [debug] GL_VERSION: "2.1 Metal - 89.3"
+2024-11-29T00:29:51+05:30 [Genymotion:2552] [debug] GL_SHADING_LANGUAGE_VERSION: "1.20"
+2024-11-29T00:29:53+05:30 [Genymotion:2552] [debug] [VMTools] Loading "qemu" plugin
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] [VMTools] Constructing engine
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] [VMTools] Chipset: "GenuineIntel"
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] [VMTools] CPUID 0x1 (Intel): ECX= "298220f"
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] [VMTools] QEMU path: "/Applications/Genymotion.app/Contents/MacOS/qemu/arm64/bin/qemu-system-aarch64"
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] [VMTools] Initializing engine
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] [VMTools] Call: ("--version")
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] [VMTools] Return code: 0
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] [VMTools] QEMU version string : "7.2.0"
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] [VMTools] VMX/SVM CPU availability: false
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] [VMTools] VM engine version: "7.2.0"
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] GET "https://cloud.genymotion.com/patterns/hardware-profiles?desktop_version=3.8.0"
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [warning] Invalid proxy type ""
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [warning] Invalid proxy type ""
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] Refreshing Hub session
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] Refreshing Hub session
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [warning] Failed to log on Hub ""
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [warning] HTTP response is an error
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] HTTP status code: 401, from cache: 0
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] HTTP headers:
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] HTTP content (first 127 bytes): 
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [warning] Downloading list of Genymotion HwProfile failed: "No credentials provided."
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [warning] Unable to retrieve hwprofiles.
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [warning] Unable to retrieve hwprofiles.
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [warning] HTTP response is an error
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] HTTP status code: 401, from cache: 0
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] HTTP headers:
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [debug] HTTP content (first 127 bytes): 
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [warning] Downloading list of Genymotion HwProfile failed: "No credentials provided."
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [warning] Unable to retrieve hwprofiles.
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [warning] Unable to retrieve hwprofiles.
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [warning] [tokenError] AbstractAuthService::Error::EmptyCredential ""
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [warning] Failed to log on Hub ""
+2024-11-29T00:29:54+05:30 [Genymotion:2552] [warning] [tokenError] AbstractAuthService::Error::EmptyCredential ""
+2024-11-29T00:29:55+05:30 [Genymotion:2552] [debug] Refreshing Hub session
+2024-11-29T00:29:55+05:30 [Genymotion:2552] [warning] Failed to log on Hub ""
+2024-11-29T00:29:55+05:30 [Genymotion:2552] [warning] HTTP response is an error
+2024-11-29T00:29:55+05:30 [Genymotion:2552] [debug] HTTP status code: 401, from cache: 0
+2024-11-29T00:29:55+05:30 [Genymotion:2552] [debug] HTTP headers:
+2024-11-29T00:29:55+05:30 [Genymotion:2552] [debug] HTTP content (first 127 bytes): 
+2024-11-29T00:29:55+05:30 [Genymotion:2552] [warning] Downloading list of Genymotion os images failed: "No credentials provided."
+2024-11-29T00:29:55+05:30 [Genymotion:2552] [warning] Unable to retrieve osimages.
+2024-11-29T00:29:55+05:30 [Genymotion:2552] [warning] [tokenError] AbstractAuthService::Error::EmptyCredential ""
+2024-11-29T00:43:52+05:30 [Genymotion:2552] [debug] [mt] Syncing...
+2024-11-29T00:43:52+05:30 [Genymotion:2552] [debug] POST "https:"
+2024-11-29T00:43:53+05:30 [Genymotion:2552] [warning] [mt][amp] Send request succeeded
+2024-11-29T00:43:53+05:30 [Genymotion:2552] [debug] [mt] Syncing finished
+2024-11-29T00:43:53+05:30 [Genymotion:2552] [debug] ==== STOPPING GENYMOTION ====
+2024-11-29T00:43:53+05:30 [Genymotion:2552] [debug] Exit status: 0 Launchpad::ExitCode::SUCCESS

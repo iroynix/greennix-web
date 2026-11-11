@@ -1,0 +1,75 @@
+2025-05-26T05:41:55.495Z [info] [proc] Executing command: cmake --version
+2025-05-26T05:41:55.508Z [warning] [proc] The command: cmake --version failed with error: Error: spawn cmake ENOENT
+2025-05-26T05:41:55.510Z [info] [proc] Executing command: cmake -E capabilities
+2025-05-26T05:41:55.511Z [warning] [proc] The command: cmake -E capabilities failed with error: Error: spawn cmake ENOENT
+2025-05-26T05:42:14.144Z [debug] [extension] Deactivate CMakeTools
+nnayak/.local/share/CMakeTools/cmake-tools-kits.json
+2025-03-21T10:06:10.591Z [info] [kit] Successfully loaded 0 kits from /Users/bibhutibhusannayak/.local/share/CMakeTools/cmake-tools-kits.json
+2025-03-21T10:06:10.599Z [debug] [kit] Not reading non-existent kits file: /Users/bibhutibhusannayak/ROY.py/.vscode/cmake-kits.json
+2025-03-21T10:06:10.696Z [info] [variant] Loaded new set of variants
+2025-03-21T10:06:10.697Z [debug] [main] CMakeProject instance initialization complete.
+2025-03-21T10:06:10.780Z [debug] [main] Not starting CMake driver: no kit selected
+2025-03-21T10:06:15.482Z [debug] [main] Not starting CMake driver: no kit selected
+2025-03-21T10:25:45.494Z [debug] [extension] Deactivate CMakeTools
+T11:20:12.155Z [debug] [kit] Scanning directory /Library/Frameworks/Python.framework/Versions/3.13/bin for compilers
+2024-11-06T11:20:12.155Z [debug] [kit] Scanning directory /usr/local/bin for compilers
+2024-11-06T11:20:12.155Z [debug] [kit] Scanning directory /System/Cryptexes/App/usr/bin for compilers
+2024-11-06T11:20:12.155Z [debug] [kit] Scanning directory /bin for compilers
+2024-11-06T11:20:12.155Z [debug] [kit] Scanning directory /usr/bin for compilers
+2024-11-06T11:20:12.156Z [debug] [kit] Scanning directory /usr/sbin for compilers
+2024-11-06T11:20:12.156Z [debug] [kit] Scanning directory /sbin for compilers
+2024-11-06T11:20:12.156Z [debug] [kit] Skipping scan of not existing path /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin
+2024-11-06T11:20:12.156Z [debug] [kit] Found 0 kits in directory /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin
+2024-11-06T11:20:12.156Z [debug] [kit] Skipping scan of not existing path /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin
+2024-11-06T11:20:12.156Z [debug] [kit] Found 0 kits in directory /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin
+2024-11-06T11:20:12.156Z [debug] [kit] Skipping scan of not existing path /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+2024-11-06T11:20:12.156Z [debug] [kit] Found 0 kits in directory /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+2024-11-06T11:20:12.156Z [debug] [kit] Skipping scan of not existing path undefined\msys64\mingw64\bin
+2024-11-06T11:20:12.156Z [debug] [kit] Found 0 kits in directory undefined\msys64\mingw64\bin
+2024-11-06T11:20:12.156Z [debug] [kit] Skipping scan of not existing path undefined\LLVM\bin
+2024-11-06T11:20:12.156Z [debug] [kit] Found 0 kits in directory undefined\LLVM\bin
+2024-11-06T11:20:12.156Z [debug] [kit] Skipping scan of not existing path undefined\msys64\mingw32\bin
+2024-11-06T11:20:12.156Z [debug] [kit] Found 0 kits in directory undefined\msys64\mingw32\bin
+2024-11-06T11:20:12.157Z [debug] [kit] Skipping scan of not existing path undefined\msys64\clang32\bin
+2024-11-06T11:20:12.157Z [debug] [kit] Found 0 kits in directory undefined\msys64\clang32\bin
+2024-11-06T11:20:12.157Z [debug] [kit] Skipping scan of not existing path undefined\msys64\clangarm64\bin
+2024-11-06T11:20:12.157Z [debug] [kit] Found 0 kits in directory undefined\msys64\clangarm64\bin
+2024-11-06T11:20:12.157Z [debug] [kit] Skipping scan of not existing path undefined\msys64\clang64\bin
+2024-11-06T11:20:12.157Z [debug] [kit] Found 0 kits in directory undefined\msys64\clang64\bin
+2024-11-06T11:20:12.157Z [debug] [kit] Skipping scan of not existing path undefined\msys64\ucrt64\bin
+2024-11-06T11:20:12.157Z [debug] [kit] Found 0 kits in directory undefined\msys64\ucrt64\bin
+2024-11-06T11:20:12.158Z [debug] [kit] Found 0 kits in directory /System/Cryptexes/App/usr/bin
+2024-11-06T11:20:12.159Z [debug] [kit] Found 0 kits in directory /bin
+2024-11-06T11:20:12.159Z [debug] [kit] Found 0 kits in directory /Library/Frameworks/Python.framework/Versions/3.13/bin
+2024-11-06T11:20:12.159Z [debug] [kit] Found 0 kits in directory /usr/local/bin
+2024-11-06T11:20:12.162Z [debug] [kit] Found 0 kits in directory /sbin
+2024-11-06T11:20:12.166Z [debug] [kit] Found 0 kits in directory /usr/sbin
+2024-11-06T11:20:12.169Z [debug] [kit] Testing Clang binary: /usr/bin/clang
+2024-11-06T11:20:12.169Z [info] [proc] Executing command: /usr/bin/clang -v
+2024-11-06T11:20:12.172Z [debug] [kit] Testing GCC binary: /usr/bin/gcc
+2024-11-06T11:20:12.172Z [info] [proc] Executing command: /usr/bin/gcc -v
+2024-11-06T11:20:12.175Z [debug] [kit] Testing GCC binary: /usr/bin/llvm-gcc
+2024-11-06T11:20:12.176Z [info] [proc] Executing command: /usr/bin/llvm-gcc -v
+2024-11-06T11:20:12.187Z [warning] [proc] The command: /usr/bin/clang -v exited with code: 1
+2024-11-06T11:20:12.187Z [warning] [proc] The command: /usr/bin/gcc -v exited with code: 1
+2024-11-06T11:20:12.188Z [warning] [proc] The command: /usr/bin/llvm-gcc -v exited with code: 1
+2024-11-06T11:20:12.188Z [debug] [kit] Bad GCC binary. "/usr/bin/llvm-gcc -v" reports version:  output: xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+
+2024-11-06T11:20:12.188Z [debug] [kit] Bad GCC binary. "/usr/bin/gcc -v" reports version:  output: xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+
+2024-11-06T11:20:12.189Z [debug] [kit] Bad Clang binary. "/usr/bin/clang -v" reports version:  output: xcode-select: note: No developer tools were found, requesting install.
+If developer tools are located at a non-default location on disk, use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, and cancel the installation dialog.
+See `man xcode-select` for more details.
+
+2024-11-06T11:20:12.189Z [debug] [kit] Found 0 kits in directory /usr/bin
+2024-11-06T11:20:12.189Z [debug] [kitsController] Saving kits to /Users/bibhutibhusannayak/.local/share/CMakeTools/cmake-tools-kits.json
+2024-11-06T11:20:12.189Z [debug] [kitsController] Saving new kits to /Users/bibhutibhusannayak/.local/share/CMakeTools/cmake-tools-kits.json
+2024-11-06T11:20:17.254Z [debug] [main] Not starting CMake driver: no kit selected
+2024-11-06T11:24:31.503Z [debug] [main] Not starting CMake driver: no kit selected
+2024-11-06T11:25:33.117Z [debug] [main] Not starting CMake driver: no kit selected
+2024-11-06T11:28:29.970Z [debug] [main] Not starting CMake driver: no kit selected
+2024-11-06T11:28:30.011Z [debug] [extension] Deactivate CMakeTools

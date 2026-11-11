@@ -1,0 +1,9 @@
+{
+    "hypervisor": "qemu",
+    "latest_version.installed": "3.8.0",
+    "screencast.directory": "/Users/bibhutibhusannayak",
+    "stats.installation_timestamp": "1732820391",
+    "stats.last_update_timestamp": 1732821233,
+    "version": 1,
+    "virtual_devices.directory": "/Users/bibhutibhusannayak/.Genymobile/Genymotion/deployed/"
+}

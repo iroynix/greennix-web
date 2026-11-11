@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Language="en-US" Id="full-stack-development-extension-pack" Version="2.0.0" Publisher="iqbalhasandev"/>
+    <DisplayName>Full Stack Development Extension Pack</DisplayName>
+    <Description xml:space="preserve">This extension pack is made with all the extensions required by Full Stack Developers.This pack has the extension of all the languages: HTML, CSS, JS, VUE, GIT, GITHUB, PHP, LARAVEL, AXIOS etc.</Description>
+    <Tags>Web,Web Design,Web Design  Extension Pack,Web Development,Web Development  Extension Pack,HTML,HTML  Extension Pack,CSS,CSS Extension Pack,Js,Js Extension Pack,axios,axios Extension Pack,git ,git Extension Pack,php,php Extension Pack,Laravel,Laravel Extension Pack,Vue Extension Pack,Vue,Vue 3,Vue 2,Composition API,Vue Snippets,Snippets,git,javascript,css,laravel</Tags>
+    <Categories>Extension Packs</Categories>
+    <GalleryFlags>Public</GalleryFlags>
+    <Badges></Badges>
+    <Properties>
+      <Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.52.0" />
+      <Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
+      <Property Id="Microsoft.VisualStudio.Code.ExtensionPack" Value="iqbalhasandev.lara-pack,alefragnani.project-manager,mdickin.markdown-shortcuts,davidanson.vscode-markdownlint" />
+      <Property Id="Microsoft.VisualStudio.Code.ExtensionKind" Value="workspace" />
+      <Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
+      
+        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/iqbalhasandev/Full-Stack-Development-Extension-Pack" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/iqbalhasandev/Full-Stack-Development-Extension-Pack" />
+        
+          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/iqbalhasandev/Full-Stack-Development-Extension-Pack" />
+        
+      
+      <Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/iqbalhasandev/Full-Stack-Development-Extension-Pack/issues" />
+      <Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/iqbalhasandev/Full-Stack-Development-Extension-Pack/blob/master/README.md" />
+      
+      
+      <Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
+      
+      
+      
+    </Properties>
+    
+    <Icon>extension/img/icon128x128.png</Icon>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Code"/>
+  </Installation>
+  <Dependencies/>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.Code.Manifest" Path="extension/package.json" Addressable="true" />
+    <Asset Type="Microsoft.VisualStudio.Services.Content.Details" Path="extension/README.md" Addressable="true" /><Asset Type="Microsoft.VisualStudio.Services.Content.Changelog" Path="extension/CHANGELOG.md" Addressable="true" /><Asset Type="Microsoft.VisualStudio.Services.Icons.Default" Path="extension/img/icon128x128.png" Addressable="true" />
+  </Assets>
+</PackageManifest>

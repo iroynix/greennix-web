@@ -1,0 +1,56 @@
+{
+	"name": "laravel-blade-spacer",
+	"displayName": "Laravel Blade Spacer",
+	"description": "Automatically add spaces in Laravel Blade template tags",
+	"version": "2.3.1",
+	"publisher": "austenc",
+	"repository": "https://github.com/austenc/vscode-blade-spacer",
+	"icon": "img/icon.png",
+	"engines": {
+		"vscode": "^1.56.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"contributes": {
+		"configurationDefaults": {
+			"[html]": {
+				"editor.autoClosingBrackets": "always"
+			},
+			"[blade]": {
+				"editor.autoClosingBrackets": "always"
+			}
+		},
+		"configuration": {
+			"type": "object",
+			"title": "Laravel Blade Spacer",
+			"properties": {
+				"bladeSpacer.enableTwig": {
+					"type": "boolean",
+					"default": true,
+					"description": "Enable support for Twig templating tags (e.g. {% %} or {#  #})"
+				}
+			}
+		}
+	},
+	"activationEvents": [
+		"*"
+	],
+	"main": "./out/extension",
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"test": "npm run compile && node ./node_modules/vscode/bin/test"
+	},
+	"devDependencies": {
+		"@types/mocha": "^2.2.48",
+		"@types/node": "^7.10.11",
+		"@types/vscode": "^1.56.0",
+		"typescript": "^4.2.4"
+	},
+	"__metadata": {
+		"installedTimestamp": 1742550460521,
+		"size": 539202
+	}
+}

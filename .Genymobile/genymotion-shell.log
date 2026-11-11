@@ -1,0 +1,32 @@
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] ==== STARTING GENYMOTION SHELL ====
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] Genymotion shell version: "3.8.0" 20241022-464d1f0f96
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] register gps status
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] No proxy set
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] Host date and time: "29 Nov 2024 00:36:48 +0530"
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] [VMTools] Loading "qemu" plugin
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] [VMTools] Constructing engine
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] [VMTools] Chipset: "GenuineIntel"
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] [VMTools] CPUID 0x1 (Intel): ECX= "298220f"
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] [VMTools] QEMU path: "/Applications/Genymotion.app/Contents/MacOS/qemu/arm64/bin/qemu-system-aarch64"
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] [VMTools] Initializing engine
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] [VMTools] Call: ("--version")
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] [VMTools] Return code: 0
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] [VMTools] QEMU version string : "7.2.0"
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] [VMTools] VMX/SVM CPU availability: false
+2024-11-29T00:36:48+05:30 [Genymotion Shell:2651] [debug] [VMTools] VM engine version: "7.2.0"
+2024-11-29T00:37:56+05:30 [Genymotion Shell:2693] [debug] ==== STARTING GENYMOTION SHELL ====
+2024-11-29T00:37:56+05:30 [Genymotion Shell:2693] [debug] Genymotion shell version: "3.8.0" 20241022-464d1f0f96
+2024-11-29T00:37:56+05:30 [Genymotion Shell:2693] [debug] register gps status
+2024-11-29T00:37:56+05:30 [Genymotion Shell:2693] [debug] No proxy set
+2024-11-29T00:37:57+05:30 [Genymotion Shell:2693] [debug] Host date and time: "29 Nov 2024 00:37:57 +0530"
+2024-11-29T00:37:57+05:30 [Genymotion Shell:2693] [debug] [VMTools] Loading "qemu" plugin
+2024-11-29T00:37:57+05:30 [Genymotion Shell:2693] [debug] [VMTools] Constructing engine
+2024-11-29T00:37:57+05:30 [Genymotion Shell:2693] [debug] [VMTools] Chipset: "GenuineIntel"
+2024-11-29T00:37:57+05:30 [Genymotion Shell:2693] [debug] [VMTools] CPUID 0x1 (Intel): ECX= "298220f"
+2024-11-29T00:37:57+05:30 [Genymotion Shell:2693] [debug] [VMTools] QEMU path: "/Applications/Genymotion.app/Contents/MacOS/qemu/arm64/bin/qemu-system-aarch64"
+2024-11-29T00:37:57+05:30 [Genymotion Shell:2693] [debug] [VMTools] Initializing engine
+2024-11-29T00:37:57+05:30 [Genymotion Shell:2693] [debug] [VMTools] Call: ("--version")
+2024-11-29T00:37:57+05:30 [Genymotion Shell:2693] [debug] [VMTools] Return code: 0
+2024-11-29T00:37:57+05:30 [Genymotion Shell:2693] [debug] [VMTools] QEMU version string : "7.2.0"
+2024-11-29T00:37:57+05:30 [Genymotion Shell:2693] [debug] [VMTools] VMX/SVM CPU availability: false
+2024-11-29T00:37:57+05:30 [Genymotion Shell:2693] [debug] [VMTools] VM engine version: "7.2.0"
